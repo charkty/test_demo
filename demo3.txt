@@ -1,1 +1,2 @@
-THIS IS DEMO3!!!
+Changes are being made to this third file!
+THIS IS A THIRD FILE!!!
