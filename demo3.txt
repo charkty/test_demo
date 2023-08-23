@@ -1,1 +1,3 @@
-I am editing demo3 in the sub branch! THIS IS DEMO3!!!
+Changes are being made to this third file!
+THIS IS A THIRD FILE!!!
+This are changes coming from branch1.
